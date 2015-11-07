@@ -2,7 +2,7 @@
 /*
 Plugin Name: Manage/View Your Posts/Pages Only
 Version: 0.1
-Plugin URI: https://github.com/cameck/
+Plugin URI: https://github.com/cameck/Manage-View-Your-Posts-Pages-Only
 Description: Allows contributors to see and manage only their posts/pages and drafts from the manage posts/pages screen. 
 Author: Brian Davidson & Cameron Eckelberry
 Author URI: https://github.com/cameck/
