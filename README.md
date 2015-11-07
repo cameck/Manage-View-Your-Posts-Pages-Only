@@ -1,5 +1,5 @@
 # Manage-View-Your-Posts-Pages_only
-WordPress Plugin to Allows contributors to see and manage only their posts/pages and drafts from the manage posts/pages screen.  <a href="https://wordpress.org/plugins/manageview-your-posts-only/" target="_blank">Fork of Manage/View Your Posts Only</a> by Brian Davidson
+WordPress Plugin to Allows contributors to see and manage only their posts/pages and drafts from the manage posts/pages screen. Fork of <a href="https://wordpress.org/plugins/manageview-your-posts-only/" target="_blank">Manage/View Your Posts Only</a> by Brian Davidson
 
 
 <h2>Installation Instructions</h2>
